@@ -8,9 +8,9 @@ This project aims to automate the testing of the MakeMyTrip website using Java a
 5. Validation: Verifying that the search results, booking confirmations, and other functionalities are working as expected.
 Technologies Used:
 
-Java: For writing the test scripts.
-Selenium WebDriver: For automating the web browser interactions.
-Eclipse IDE: For developing and managing the project.
-TestNG/JUnit: For managing and running the test cases.
-Maven/Gradle: For project build and dependency management.
-Git: For version control and collaboration.
+* Java: For writing the test scripts.
+* Selenium WebDriver: For automating the web browser interactions.
+* Eclipse IDE: For developing and managing the project.
+* TestNG/JUnit: For managing and running the test cases.
+* Maven/Gradle: For project build and dependency management.
+* Git: For version control and collaboration.
